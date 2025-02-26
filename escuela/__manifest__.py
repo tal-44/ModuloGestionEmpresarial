@@ -2,7 +2,7 @@
     'name': 'Gestión Escolar',
     'version': '1.0',
     'summary': 'Módulo para gestionar estudiantes, asignaturas y grupos en una escuela',
-    'author': 'Tu Nombre',
+    'author': 'Juan',
     'category': 'Education',
     'depends': ['base'],
     'data': [
