@@ -1,0 +1,6 @@
+<odoo>
+    <menuitem id="escuela_menu" name="Gestión Escolar"/>
+    <menuitem id="menu_estudiantes" name="Estudiantes" parent="escuela_menu" action="view_estudiante_form"/>
+    <menuitem id="menu_asignaturas" name="Asignaturas" parent="escuela_menu" action="view_asignatura_form"/>
+    <menuitem id="menu_grupos" name="Grupos" parent="escuela_menu" action="view_grupo_form"/>
+</odoo>
